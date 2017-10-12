@@ -1,0 +1,5 @@
+2017-10-12 14:36:49 [18830] Chronessan.java:289 Starting up...
+2017-10-12 14:36:57 [18830] Chronessan.java:355 beanshell> self
+2017-10-12 14:36:57 [18830] Chronessan.java:368 beanshell> com.dynamodan.framework.CHTest@66d2e7d9
+2017-10-12 14:36:58 [18830] Chronessan.java:397 exiting beanshell
+2017-10-12 14:36:58 [18830] Chronessan.java:414 Run completed without warnings.
