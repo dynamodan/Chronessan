@@ -9,7 +9,7 @@
  */
 
 package ${groupId};
-import com.dynamodan.chronessan.framework;
+import com.dynamodan.framework.Chronessan
 
 
 public class ${artifactId} extends Chronessan {
