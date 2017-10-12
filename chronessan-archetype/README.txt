@@ -1,6 +1,6 @@
 # you can use this maven archetype like this:
 
-mvn archetype:generate -DgroupId=com.dynamodan -DartifactId=Snapper -DarchetypeGroupId=com.dynamodan -DarchetypeVersion=1.0-SNAPSHOT -DarchetypeArtifactId=chronessian-archetype -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.dynamodan -DartifactId=Snapper -DarchetypeGroupId=com.dynamodan -DarchetypeVersion=1.0-SNAPSHOT -DarchetypeArtifactId=chronessan-archetype -DinteractiveMode=false
 cd Snapper
 
 # and then you'll have a Snapper.java file that you can symbolic link to:
