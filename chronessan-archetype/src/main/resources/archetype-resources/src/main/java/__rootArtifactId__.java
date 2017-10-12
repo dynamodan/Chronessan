@@ -1,4 +1,4 @@
-//bin/true; /usr/bin/mvn compile -f "`dirname \"$0\"`/pom.xml" -q && CLASSPATH=`/usr/bin/mvn -f "\`dirname \"$0\"\`/pom.xml" exec:exec -q` java com.dynamodan.${artifactId} $@
+//bin/true; /usr/bin/mvn compile -f "`dirname \"$0\"`/pom.xml" -q && CLASSPATH=`/usr/bin/mvn -f "\`dirname \"$0\"\`/pom.xml" exec:exec -q` java ${groupId}.${artifactId} $@
 //bin/true; exec echo "Done"
 /**
  * Chronessan Framework test stub
