@@ -18,7 +18,7 @@ public class CHTest extends Chronessan {
 	public static CHTest self;
 
 	// dud constructor, must use self.instantiateMy(self, args) to force singleton behavior
-	// otherwise, will throw an error like this: Constructor error: Can't find default constructor for: class prism_api
+	// otherwise, will throw an error like this: Constructor error: Can't find default constructor for: class foo
 	protected CHTest() {	}
 	
 	public String getVersion() {
