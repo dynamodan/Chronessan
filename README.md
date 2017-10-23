@@ -5,8 +5,10 @@ Java Utility Library & Maven Archetype
 linux, java 8, maven, bash
 
 # Synopsis
-To build and install the library into your local maven repository:
+To build and install the library into your local maven repository, first
+pull or download the files, cd to the top directory and then:
 ```
+cd chronessan-archetype
 mvn install
 ```
 
